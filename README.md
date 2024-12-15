@@ -50,6 +50,22 @@ This project uses an **ATmega128 microcontroller** to implement a fan control sy
     - Use **LEDs** to indicate different fan modes (e.g., Low, Medium, High).
 
 ---
+## 🖼️ Project Images
+
+### Real-Time Monitoring Display
+
+![Real-Time Monitoring](./images/main.png)  
+![Real-Time Monitoring](./images/apache.png)  
+
+---
+
+## 📊 System Architecture Diagram
+
+### Diagram Overview
+
+![System Diagram](./images/diagram.png)
+
+---
 
 ### 🛠️ Hardware Used
 
