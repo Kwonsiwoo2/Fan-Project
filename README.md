@@ -85,8 +85,8 @@ This project uses an **ATmega128 microcontroller** to implement a fan control sy
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/atmega128-fan-project.git
-   cd atmega128-fan-project
+   git clone https://github.com/Kwonsiwoo2/Fan-Project
+   cd Fan-Project
    ```
 
 2. **Open the Project in AVR Studio/Atmel Studio**:
