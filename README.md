@@ -62,7 +62,7 @@ This project uses an **ATmega128 microcontroller** to implement a fan control sy
 
 ### Diagram Overview
 
-![System Diagram](./Images/FlowChart.png)
+![System Diagram](./Images/fan_flowchart.png)
 
 ---
 
