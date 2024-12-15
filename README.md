@@ -54,8 +54,7 @@ This project uses an **ATmega128 microcontroller** to implement a fan control sy
 
 ### Real-Time Monitoring Display
 
-![Real-Time Monitoring](./images/main.png)  
-![Real-Time Monitoring](./images/apache.png)  
+![Real-Time Monitoring](./Images/main.jpg)  
 
 ---
 
