@@ -8,6 +8,14 @@
 
 ---
 
+## 🖼️ Project Images
+
+### Real-Time Monitoring Display
+
+![Real-Time Monitoring](./Images/main.jpg)  
+
+---
+
 ## 💻 프로젝트 내용
 
 ### 🎯 목적
