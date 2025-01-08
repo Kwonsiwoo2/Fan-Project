@@ -8,9 +8,9 @@
 
 ---
 
-## 🖼️ Project Images
+## 🖼️ 프로젝트 사진
 
-### Real-Time Monitoring Display
+### 구성
 
 ![Real-Time Monitoring](./Images/main.jpg)  
 
